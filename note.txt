@@ -1,0 +1,11 @@
+Langkah-langkah 
+- buat project laravel
+- siapkan database
+- seting configurasi database di .env
+- jalankan migration
+- composer require filament/filament:"^3.2" -W
+- php artisan filament:install --panels
+- php artisan make:filament-user
+
+
+- kita tinggal login di web filametnnya
